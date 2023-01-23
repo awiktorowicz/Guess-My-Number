@@ -26,3 +26,5 @@ Welcome to the Guess My Number game! This is a classic number guessing game wher
 
 ## Thanks for Playing!
 We hope you enjoy playing the Guess My Number game as much as we enjoyed creating it. Good luck!
+
+Part of Jonas Schmedtmann course.
